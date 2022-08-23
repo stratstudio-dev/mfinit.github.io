@@ -1,0 +1,7 @@
+{
+  "name": "mfinit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
